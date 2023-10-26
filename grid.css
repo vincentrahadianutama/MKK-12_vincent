@@ -5,12 +5,66 @@
     grid-gap: 2vw;
     place-items: center;
     height: 100vw;
+    padding: 30px;
     
+
     }
 
-    div{
+    
+    .g1{
         
-        padding: 10px;
         background-color: orange;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 12px;
+        font-size: 30px;
+        text-align: center;
+        height: 30px;
+        width: 1500px;
+    }
 
+    .g2{
+        display: grid;
+        grid-template-columns: 2;
+        background-color: orange;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: auto;
+        font-size: 30px;
+        text-align: center;
+        height: 30px;
+        
+    }
+
+    .g3{
+        background-color: orange;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: auto;
+        font-size: 30px;
+        text-align: center;
+        height: 30px;
+    }
+
+    .g4{
+        background-color: orange;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: auto;
+        font-size: 30px;
+        text-align: center;
+        height: 30px;
+    }
+    .g6{
+        background-color: orange;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: auto;
+        font-size: 30px;
+        text-align: center;
+        height: 30px;
+    }
+
+    .g12{
+        background-color: orange;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: auto;
+        font-size: 30px;
+        text-align: center;
+        height: 30px;
     }
